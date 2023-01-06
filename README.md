@@ -1,6 +1,8 @@
+![](https://media0.giphy.com/media/I9Fhdj7aMggzsXlCDi/giphy.gif?cid=790b7611b026257ce4f602030445521fbc46c2042e776a52&rid=giphy.gif&ct=g)
+
 # react-native-bubbles-menu
 
-This a bubbles menu
+This a bubbles' menu, this project requires <b><i>node v16</i></b>
 
 ## Installation
 
