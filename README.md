@@ -8,14 +8,19 @@ This a bubbles menu
 npm install react-native-bubbles-menu
 ```
 
+Or if you use yarn
+```sh
+yarn add react-native-bubbles-menu
+```
+
 ## Usage
 
 ```js
-import { multiply } from 'react-native-bubbles-menu';
+import BubbleMenu from 'react-native-bubbles-menu';
 
 // ...
 
-const result = await multiply(3, 7);
+<BubbleMenu items={bubbleItems} />
 ```
 
 ## Contributing
