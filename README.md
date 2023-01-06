@@ -15,6 +15,19 @@ Or if you use yarn
 yarn add react-native-bubbles-menu
 ```
 
+## Dependencies
+This project depends on:
+
+- React Native Async Storage
+- React Native Reanimated
+- React Native Gesture Handler
+
+So please run:
+
+```sh
+yarn add @react-native-async-storage/async-storage react-native-gesture-handler react-native-reanimated@2.12.0
+npx pod-install
+```
 ## Usage
 
 ```js
